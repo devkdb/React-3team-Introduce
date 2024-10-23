@@ -48,3 +48,4 @@
 - dev <------ dev-자기이름
 
 - 부탁받은 사람은 소스 검토후 approve 및 Merge.
+  test 머지
